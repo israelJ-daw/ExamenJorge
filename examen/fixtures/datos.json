@@ -1,0 +1,2120 @@
+[
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add cuaderno",
+        "content_type": 7,
+        "codename": "add_cuaderno"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change cuaderno",
+        "content_type": 7,
+        "codename": "change_cuaderno"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete cuaderno",
+        "content_type": 7,
+        "codename": "delete_cuaderno"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view cuaderno",
+        "content_type": 7,
+        "codename": "view_cuaderno"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add usuario",
+        "content_type": 8,
+        "codename": "add_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change usuario",
+        "content_type": 8,
+        "codename": "change_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete usuario",
+        "content_type": 8,
+        "codename": "delete_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view usuario",
+        "content_type": 8,
+        "codename": "view_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add subscripcion",
+        "content_type": 9,
+        "codename": "add_subscripcion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change subscripcion",
+        "content_type": 9,
+        "codename": "change_subscripcion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete subscripcion",
+        "content_type": 9,
+        "codename": "delete_subscripcion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view subscripcion",
+        "content_type": 9,
+        "codename": "view_subscripcion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add vendidos",
+        "content_type": 10,
+        "codename": "add_vendidos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change vendidos",
+        "content_type": 10,
+        "codename": "change_vendidos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete vendidos",
+        "content_type": 10,
+        "codename": "delete_vendidos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view vendidos",
+        "content_type": 10,
+        "codename": "view_vendidos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add puntuacion_cuadernos",
+        "content_type": 11,
+        "codename": "add_puntuacion_cuadernos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change puntuacion_cuadernos",
+        "content_type": 11,
+        "codename": "change_puntuacion_cuadernos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete puntuacion_cuadernos",
+        "content_type": 11,
+        "codename": "delete_puntuacion_cuadernos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view puntuacion_cuadernos",
+        "content_type": 11,
+        "codename": "view_puntuacion_cuadernos"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "examen",
+        "model": "cuaderno"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "examen",
+        "model": "usuario"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "examen",
+        "model": "subscripcion"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "examen",
+        "model": "vendidos"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "examen",
+        "model": "puntuacion_cuadernos"
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 1,
+    "fields": {
+        "color": "Option thought simple to say. Whole protect dinner.",
+        "tipo": "grimescharles@example.com",
+        "diamametro": "Another close red.",
+        "Precio": 0.3424532476107498
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 2,
+    "fields": {
+        "color": "Oil born during include measure nature continue of. Church beautiful expert perform.",
+        "tipo": "vstrickland@example.net",
+        "diamametro": "Wide affect feeling.",
+        "Precio": 0.8534511490384222
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 3,
+    "fields": {
+        "color": "Point about anyone than table whatever. Century worry property where participant rock.",
+        "tipo": "hsingleton@example.com",
+        "diamametro": "Admit Mrs listen.",
+        "Precio": 0.53418906471218
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 4,
+    "fields": {
+        "color": "Then see radio trouble local. Traditional police sometimes agency.",
+        "tipo": "matthew80@example.org",
+        "diamametro": "Citizen technology.",
+        "Precio": 0.10966067302166738
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 5,
+    "fields": {
+        "color": "Various ahead enough early small form. Life attorney growth.",
+        "tipo": "adam98@example.com",
+        "diamametro": "Skin mind still.",
+        "Precio": 0.42473031855767207
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 6,
+    "fields": {
+        "color": "Site news some space policy choose.",
+        "tipo": "matthew12@example.org",
+        "diamametro": "Common time last.",
+        "Precio": 0.7088077368617827
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 7,
+    "fields": {
+        "color": "Treatment next improve technology TV me.",
+        "tipo": "baileychristina@example.net",
+        "diamametro": "Maintain central.",
+        "Precio": 0.06224714278953125
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 8,
+    "fields": {
+        "color": "Watch discussion role nor manager pressure. Up visit budget result.",
+        "tipo": "mirandacolleen@example.org",
+        "diamametro": "Perform wish seven.",
+        "Precio": 0.07735538128252206
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 9,
+    "fields": {
+        "color": "Here environment know report. Push win space agency base specific.",
+        "tipo": "kaitlyn08@example.org",
+        "diamametro": "Accept product.",
+        "Precio": 0.8297362202421052
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 10,
+    "fields": {
+        "color": "Enough table claim magazine decide act. Leave also tree.",
+        "tipo": "melissamiranda@example.org",
+        "diamametro": "Prove outside upon.",
+        "Precio": 0.6456880110187123
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 11,
+    "fields": {
+        "color": "Huge let or surface citizen side. Level several example board turn.",
+        "tipo": "khicks@example.com",
+        "diamametro": "End him expert.",
+        "Precio": 0.12475639814809347
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 12,
+    "fields": {
+        "color": "For note wife somebody blue safe condition. Score happy truth miss hundred year them on.",
+        "tipo": "douglas90@example.net",
+        "diamametro": "Tell particularly.",
+        "Precio": 0.8073376599363297
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 13,
+    "fields": {
+        "color": "White follow miss article successful. Manage where letter expert also.",
+        "tipo": "nathan01@example.org",
+        "diamametro": "Car world.",
+        "Precio": 0.839407461667313
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 14,
+    "fields": {
+        "color": "This television wrong however magazine. Gun require reach focus.",
+        "tipo": "okramer@example.net",
+        "diamametro": "Their couple heavy.",
+        "Precio": 0.143805260373557
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 15,
+    "fields": {
+        "color": "Response employee inside both. Performance above music inside thought do better.",
+        "tipo": "bryangray@example.com",
+        "diamametro": "Role material.",
+        "Precio": 0.635027789798275
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 16,
+    "fields": {
+        "color": "Which owner environmental administration.",
+        "tipo": "fernandohoward@example.org",
+        "diamametro": "Sister government.",
+        "Precio": 0.960687209732353
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 17,
+    "fields": {
+        "color": "Only hot public under. Together person capital with player necessary.",
+        "tipo": "michaeldavis@example.org",
+        "diamametro": "Perform seem task.",
+        "Precio": 0.7678702048912426
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 18,
+    "fields": {
+        "color": "Behind whole surface particular I rate. Easy city inside hope. Leg smile discover return own.",
+        "tipo": "juliebrown@example.org",
+        "diamametro": "But support edge.",
+        "Precio": 0.6232078828963584
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 19,
+    "fields": {
+        "color": "Issue whom leader plant in state. Different beautiful prepare mouth crime event knowledge.",
+        "tipo": "ysharp@example.net",
+        "diamametro": "Without onto job.",
+        "Precio": 0.26534102020175576
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 20,
+    "fields": {
+        "color": "After area house happen. Activity time also. Investment article situation event second.",
+        "tipo": "choidanielle@example.org",
+        "diamametro": "Glass green police.",
+        "Precio": 0.810777576562794
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 21,
+    "fields": {
+        "color": "Stuff certainly without way. Build process gas whose north allow election.",
+        "tipo": "elizabethacevedo@example.org",
+        "diamametro": "Pretty important.",
+        "Precio": 0.00036440329951070716
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 22,
+    "fields": {
+        "color": "Kind night way recognize. Financial game manager bring only ability.",
+        "tipo": "callahandana@example.org",
+        "diamametro": "Worry green to.",
+        "Precio": 0.3339704580051731
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 23,
+    "fields": {
+        "color": "Response responsibility will travel simply. Sing one good among soon.",
+        "tipo": "chelsea20@example.net",
+        "diamametro": "Run effort every.",
+        "Precio": 0.2624140024005609
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 24,
+    "fields": {
+        "color": "Moment describe answer claim happy bank point. Then among section rest enough suddenly citizen.",
+        "tipo": "lindseyschmitt@example.org",
+        "diamametro": "Ask according next.",
+        "Precio": 0.3794637126707745
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 25,
+    "fields": {
+        "color": "Protect stand walk suddenly ok move issue far. Especially discussion situation do.",
+        "tipo": "robert46@example.com",
+        "diamametro": "Church book.",
+        "Precio": 0.019613766712960556
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 26,
+    "fields": {
+        "color": "Option send cell century upon body. Care site of very.",
+        "tipo": "jacksonchristina@example.org",
+        "diamametro": "At old theory into.",
+        "Precio": 0.35653950510985233
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 27,
+    "fields": {
+        "color": "Culture back enter unit stage.\nSoldier nothing maybe enough.\nThe factor meeting seat.",
+        "tipo": "littleshane@example.com",
+        "diamametro": "Hard stay chair not.",
+        "Precio": 0.2520852351226244
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 28,
+    "fields": {
+        "color": "New station time statement industry final take painting. Someone significant husband old here.",
+        "tipo": "gmack@example.org",
+        "diamametro": "State process own.",
+        "Precio": 0.3318291542203131
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 29,
+    "fields": {
+        "color": "Health gas different course social break rich subject. Enjoy into good clearly walk near course.",
+        "tipo": "mccarthylauren@example.org",
+        "diamametro": "In meeting data.",
+        "Precio": 0.3117759137512003
+    }
+},
+{
+    "model": "examen.cuaderno",
+    "pk": 30,
+    "fields": {
+        "color": "Face member listen my than. Pm concern hand leg few around. End throw similar similar significant.",
+        "tipo": "mariahuffman@example.org",
+        "diamametro": "Wind father.",
+        "Precio": 0.1406581495604522
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 1,
+    "fields": {
+        "nombre": "Artist part today fund system easy. Manager apply doctor physical.",
+        "cuenta": "Home techn",
+        "num_cuenta": "Paper or teach PM despite. Law computer politics human task right doctor.\nEconomic race improve western if her read guy. Left strategy already remember professional. Option use discover develop.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            1,
+            11,
+            13
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 2,
+    "fields": {
+        "nombre": "Seven expect from feel rest. Lead of face opportunity its including can.",
+        "cuenta": "Good same ",
+        "num_cuenta": "Begin kid same bed stage teacher around. Player movie room building our open. Avoid culture more him yes.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            1,
+            3,
+            8,
+            10
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 3,
+    "fields": {
+        "nombre": "Happy involve able far. Herself myself site. Hot nothing heavy after open career without.",
+        "cuenta": "Bed adult ",
+        "num_cuenta": "Truth also charge machine floor war bring. Some see final watch suddenly light success.\nFamily room company building lot property ask easy. Culture positive whose he. Choice would sort local media.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            8,
+            10
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 4,
+    "fields": {
+        "nombre": "Experience age maybe mean sport say policy. Team anything local relationship at society.",
+        "cuenta": "Raise chal",
+        "num_cuenta": "I throughout production computer federal local. Still guy realize culture marriage address new. War when view.\nForm sense yeah. Science memory style admit indicate.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            6,
+            7
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 5,
+    "fields": {
+        "nombre": "Right lay sort senior. Yard politics style.",
+        "cuenta": "Capital fa",
+        "num_cuenta": "Religious card hair task movement and especially. Blue stay care around. Pattern look single.\nCareer actually enter himself rather history blood. Every might store. Lead your smile available.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            14
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 6,
+    "fields": {
+        "nombre": "Threat high thought.\nFear stuff month note back become defense.",
+        "cuenta": "Hotel orga",
+        "num_cuenta": "Offer marriage since responsibility suggest whole rise. Tax administration look keep whether. Before his few.\nPicture seek become better within system either simple.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            9,
+            12,
+            15
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 7,
+    "fields": {
+        "nombre": "Place trouble the candidate to. Challenge while line. Thus sort unit free manage.",
+        "cuenta": "Authority ",
+        "num_cuenta": "Hundred move pass somebody they move authority. Reason truth have.\nCost rich west success for term arm family. Know ready issue check true hit. Leg national opportunity.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            8,
+            15
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 8,
+    "fields": {
+        "nombre": "Nearly month manager lead. Adult down machine court even program.",
+        "cuenta": "Good Democ",
+        "num_cuenta": "Civil skill police if office state model.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            14
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 9,
+    "fields": {
+        "nombre": "Source land artist for. Respond raise word sound address mother cut.",
+        "cuenta": "Full admit",
+        "num_cuenta": "Return threat dark across gas agent. Effort way ahead morning phone rest off. Increase ball style pattern product letter actually. Decide might bad other project tough.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            2
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 10,
+    "fields": {
+        "nombre": "Network himself especially group space clearly food. List through community evening compare.",
+        "cuenta": "Guy interv",
+        "num_cuenta": "Price much almost ability product herself. Certain analysis determine.\nThemselves work she exist. Hot air development must. Dream for else make you pressure.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 11,
+    "fields": {
+        "nombre": "Very ability election red enter ball. True he new occur hair. Go environmental book.",
+        "cuenta": "Eye imagin",
+        "num_cuenta": "Indicate audience myself. Democrat main tonight. Hit really fire break.\nMight Mrs win water large specific. Power ago explain skill.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            2,
+            5,
+            9,
+            10
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 12,
+    "fields": {
+        "nombre": "Onto we try. Member decade same range truth necessary.",
+        "cuenta": "Building p",
+        "num_cuenta": "Ground tonight clear teach rock per. Sport win visit resource watch us. Minute leave very consider whom compare base.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            13
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 13,
+    "fields": {
+        "nombre": "This past stay husband success spring middle choice. Sport fact great act star win.",
+        "cuenta": "Themselves",
+        "num_cuenta": "Avoid dog heavy more. Area exactly nearly if.\nSituation north they can clear move page. Would prepare artist stuff program realize dark animal. Look thank story.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            5,
+            6,
+            11,
+            12
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 14,
+    "fields": {
+        "nombre": "Support type hot goal beyond time worry. Car significant investment even recent.",
+        "cuenta": "Trip fight",
+        "num_cuenta": "Although take another. Level large score left hospital these.\nInterest forward late play wish from. Edge wait song ok could include behind. Would story price think. Old state maintain stage.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            2,
+            6,
+            7
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 15,
+    "fields": {
+        "nombre": "Player discuss during indeed policy until stop. Fill beyond measure yard.",
+        "cuenta": "Build teac",
+        "num_cuenta": "Worry crime draw must start than. Able detail benefit only maybe head any.\nCup task reach stock. Now development book decide current world light statement.",
+        "fecha_registro": "2024-11-05T08:51:21.986Z",
+        "usuarios": [
+            4
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 16,
+    "fields": {
+        "nombre": "Really Republican town never consider small level.",
+        "cuenta": "Around pos",
+        "num_cuenta": "Structure happen science score start. Listen just attack report offer.\nFill clear wrong speech. Available whatever watch economic exactly. Sport street pay interesting spring.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            30
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 17,
+    "fields": {
+        "nombre": "Table day participant whatever.",
+        "cuenta": "Culture fo",
+        "num_cuenta": "Either reduce series many then. Anything TV design move general. Do party charge decision several decision.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            17,
+            24,
+            27
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 18,
+    "fields": {
+        "nombre": "Pressure beyond hard two none likely. Impact voice very.",
+        "cuenta": "Listen pre",
+        "num_cuenta": "Board player drive fact professor. Market choose range choice to. Same plant she population.\nKey bit manage health. Start find once tough in. Half ground score.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            16,
+            28,
+            29
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 19,
+    "fields": {
+        "nombre": "Lawyer sing night local down.",
+        "cuenta": "Fund accep",
+        "num_cuenta": "Later political raise drive statement discussion relate. Various history attention lawyer. Require piece also feeling.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            17,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 20,
+    "fields": {
+        "nombre": "Share common let kitchen fine. Minute rise perhaps Congress find still.",
+        "cuenta": "One visit ",
+        "num_cuenta": "Kitchen catch family material.\nNational attorney tree discover. Know race next reduce treatment speak eight right. Southern example report television affect major.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            23,
+            30
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 21,
+    "fields": {
+        "nombre": "Analysis increase single moment. Add grow wish Congress only pass home according.",
+        "cuenta": "Whatever s",
+        "num_cuenta": "Age standard radio quite. Everybody become several.\nGlass during dog in.\nBecome building billion employee. Over television huge prove bill a claim and.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            26
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 22,
+    "fields": {
+        "nombre": "Myself picture truth control serious poor. Player stuff nearly ability huge. Realize thought care.",
+        "cuenta": "Go some la",
+        "num_cuenta": "Provide Republican sign democratic protect. Family his strategy until ever heavy.\nNotice sense bring region term. Floor grow budget. Civil strong evening network economic room phone.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            21
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 23,
+    "fields": {
+        "nombre": "Whose plan his site idea local artist require. Child suffer phone hotel.",
+        "cuenta": "Quickly be",
+        "num_cuenta": "Final begin early. Long relate wait measure century film throughout.\nFeel only fine court score some.\nMore structure sport reality boy fight now. Someone think piece wonder share industry hit.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            18,
+            22,
+            27,
+            29
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 24,
+    "fields": {
+        "nombre": "Scene sometimes here attorney information. Loss actually response piece billion act see.",
+        "cuenta": "Page physi",
+        "num_cuenta": "Leave matter push produce ago very. Seek hard just her wall.\nResource by rest home story. Mention fear special around that price gun.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            18,
+            19
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 25,
+    "fields": {
+        "nombre": "Computer success girl century difficult require heart stock.\nEasy yeah people land often.",
+        "cuenta": "Million fi",
+        "num_cuenta": "Garden church conference smile thousand hit. Pretty major person discussion.\nHis this glass some. Floor do leave business ask color.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            26,
+            28,
+            30
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 26,
+    "fields": {
+        "nombre": "Natural central current. Environment morning that bed ever against. Project learn through.",
+        "cuenta": "Have analy",
+        "num_cuenta": "Group center if evidence practice. Hundred enough heart popular. Ground candidate door carry.\nLife medical to wrong a power many.\nRecent next most western own everyone. Pattern remember senior open.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            18,
+            23,
+            25,
+            27
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 27,
+    "fields": {
+        "nombre": "Building no fear build high sort southern party. Heavy everybody either such talk by drop.",
+        "cuenta": "Reality to",
+        "num_cuenta": "Want I instead may rock religious. Yes forward beyond toward cost daughter until world.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            22
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 28,
+    "fields": {
+        "nombre": "They source story almost simple claim. Want senior face.",
+        "cuenta": "Arrive bet",
+        "num_cuenta": "Rock major develop couple avoid record.\nTry than head author drug. Certain human goal. Seem course reveal it arm.\nSea perhaps show blue information.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            21,
+            22,
+            23,
+            30
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 29,
+    "fields": {
+        "nombre": "Author strategy one reason site spend view.",
+        "cuenta": "Large conf",
+        "num_cuenta": "Think watch cell protect. War debate through yard grow clear.\nHe especially call talk. Lawyer politics indeed a official talk. Could song set.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            19,
+            25,
+            28,
+            29
+        ]
+    }
+},
+{
+    "model": "examen.usuario",
+    "pk": 30,
+    "fields": {
+        "nombre": "Herself common fire newspaper. Answer little thought officer beat. Too off range page election.",
+        "cuenta": "Painting c",
+        "num_cuenta": "Speech inside choice finish interesting. Avoid newspaper oil store foot miss.\nSecurity probably yourself religious pass. Want however life yet hotel. More agree likely its.",
+        "fecha_registro": "2024-11-05T09:30:19.012Z",
+        "usuarios": [
+            19,
+            24,
+            28,
+            30
+        ]
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 1,
+    "fields": {
+        "color": "Factor theory item believe college save whole. Production church send budget husband.",
+        "tipo": "tracysmith@example.net",
+        "diamametro": "Second start after.",
+        "Precio": 0.29403909729473654,
+        "vendidos": 2
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 2,
+    "fields": {
+        "color": "Positive food specific win. Shake degree who dream.",
+        "tipo": "velasquezandrew@example.org",
+        "diamametro": "Member baby hit yet.",
+        "Precio": 0.4256924825772347,
+        "vendidos": 15
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 3,
+    "fields": {
+        "color": "Baby TV out another. Fall deal mean able face.",
+        "tipo": "wcameron@example.net",
+        "diamametro": "Present building.",
+        "Precio": 0.16640095826615098,
+        "vendidos": 10
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 4,
+    "fields": {
+        "color": "Rate employee per interesting. Ready huge which wear probably good benefit.",
+        "tipo": "carolyncook@example.com",
+        "diamametro": "Dream there age.",
+        "Precio": 0.18983240097821186,
+        "vendidos": 6
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 5,
+    "fields": {
+        "color": "Doctor wind newspaper factor plant citizen say information. Medical practice deep. Break life line.",
+        "tipo": "tracy86@example.com",
+        "diamametro": "Business than back.",
+        "Precio": 0.6664458450383615,
+        "vendidos": 11
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 6,
+    "fields": {
+        "color": "Yeah court necessary. College you see professor remember now.",
+        "tipo": "arellanobrenda@example.com",
+        "diamametro": "Year situation.",
+        "Precio": 0.3554364973337627,
+        "vendidos": 15
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 7,
+    "fields": {
+        "color": "Probably history guy worry major drug.\nSame deal behavior quickly page film. Up step add design.",
+        "tipo": "dustinlewis@example.net",
+        "diamametro": "Yet expect success.",
+        "Precio": 0.017911004648994533,
+        "vendidos": 11
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 8,
+    "fields": {
+        "color": "Color eight unit respond production until.",
+        "tipo": "susancarroll@example.org",
+        "diamametro": "Sure free he not.",
+        "Precio": 0.7881551779224251,
+        "vendidos": 13
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 9,
+    "fields": {
+        "color": "Firm likely prevent. Give PM turn green.\nBag head almost me effect.",
+        "tipo": "amy46@example.net",
+        "diamametro": "Huge Mrs say rich.",
+        "Precio": 0.802809603812861,
+        "vendidos": 11
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 10,
+    "fields": {
+        "color": "Firm cut budget western medical six.",
+        "tipo": "haynesmichele@example.net",
+        "diamametro": "Best lot themselves.",
+        "Precio": 0.34488908389596007,
+        "vendidos": 13
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 11,
+    "fields": {
+        "color": "Listen wall baby the. Appear security college stop. Size role magazine low film find player.",
+        "tipo": "james96@example.com",
+        "diamametro": "Care time.",
+        "Precio": 0.8983001574743478,
+        "vendidos": 1
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 12,
+    "fields": {
+        "color": "Trip sound within how laugh continue. Surface likely analysis front heart nature amount.",
+        "tipo": "kmorris@example.com",
+        "diamametro": "Wrong animal.",
+        "Precio": 0.9750276491847918,
+        "vendidos": 6
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 13,
+    "fields": {
+        "color": "According receive their hot head. The politics college help either cover best reflect.",
+        "tipo": "brooke37@example.com",
+        "diamametro": "As first sing late.",
+        "Precio": 0.6359601748487476,
+        "vendidos": 10
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 14,
+    "fields": {
+        "color": "Detail third just. Store goal yeah boy how care. South social clearly fill they my discuss.",
+        "tipo": "david73@example.com",
+        "diamametro": "List itself wait.",
+        "Precio": 0.4780117713408695,
+        "vendidos": 7
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 15,
+    "fields": {
+        "color": "Crime memory near land middle keep. Possible produce American out.",
+        "tipo": "kristina93@example.net",
+        "diamametro": "Require keep common.",
+        "Precio": 0.820077420959659,
+        "vendidos": 3
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 16,
+    "fields": {
+        "color": "Expect teacher range question other. Hand first receive book her. Sport goal machine although.",
+        "tipo": "kristinhicks@example.net",
+        "diamametro": "Pay threat check.",
+        "Precio": 0.08494167432280486,
+        "vendidos": 16
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 17,
+    "fields": {
+        "color": "Offer long poor use state why management.",
+        "tipo": "pattersonmargaret@example.net",
+        "diamametro": "Bad audience far.",
+        "Precio": 0.07918127491593752,
+        "vendidos": 26
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 18,
+    "fields": {
+        "color": "College collection real little nation. Do know on course.",
+        "tipo": "john71@example.org",
+        "diamametro": "Crime court.",
+        "Precio": 0.3804504990732963,
+        "vendidos": 21
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 19,
+    "fields": {
+        "color": "Design itself whom peace possible. Fast later man every join as. Already your others two task fall.",
+        "tipo": "michael82@example.net",
+        "diamametro": "Player still mean.",
+        "Precio": 0.6004215845476707,
+        "vendidos": 23
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 20,
+    "fields": {
+        "color": "Break player about term. Speech should much season either.",
+        "tipo": "marcia19@example.com",
+        "diamametro": "Play heart yard eye.",
+        "Precio": 0.1074447645681863,
+        "vendidos": 26
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 21,
+    "fields": {
+        "color": "Despite crime rock I. Lead situation career coach available various include.",
+        "tipo": "johncowan@example.com",
+        "diamametro": "Apply ready.",
+        "Precio": 0.5916150522702341,
+        "vendidos": 26
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 22,
+    "fields": {
+        "color": "Why television thousand if public message better. Exist far trial management work suddenly.",
+        "tipo": "sonya80@example.com",
+        "diamametro": "Sit share fact.",
+        "Precio": 0.31417450953551473,
+        "vendidos": 23
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 23,
+    "fields": {
+        "color": "Light opportunity gun owner Mrs particular. Spring discuss pass.",
+        "tipo": "heatherspence@example.com",
+        "diamametro": "Clearly mind.",
+        "Precio": 0.4321818752344391,
+        "vendidos": 23
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 24,
+    "fields": {
+        "color": "Back another name television until cover show. Nearly call view central.",
+        "tipo": "melaniepollard@example.org",
+        "diamametro": "Series interview.",
+        "Precio": 0.9696985163044091,
+        "vendidos": 27
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 25,
+    "fields": {
+        "color": "Those visit decade size weight. Term almost enjoy street friend you.",
+        "tipo": "cassidy40@example.net",
+        "diamametro": "Quite to thousand.",
+        "Precio": 0.44838680476515236,
+        "vendidos": 21
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 26,
+    "fields": {
+        "color": "Relate six hair manage treat.",
+        "tipo": "kjuarez@example.org",
+        "diamametro": "Culture father.",
+        "Precio": 0.19378655705786185,
+        "vendidos": 16
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 27,
+    "fields": {
+        "color": "Medical kind say whole generation. Inside institution economy care safe serve.",
+        "tipo": "jessica81@example.com",
+        "diamametro": "Professional lawyer.",
+        "Precio": 0.6199236030029379,
+        "vendidos": 24
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 28,
+    "fields": {
+        "color": "Economic civil suffer reach huge send hair field. Box record particularly visit unit.",
+        "tipo": "qwilliams@example.com",
+        "diamametro": "Use picture get.",
+        "Precio": 0.3622981955623269,
+        "vendidos": 19
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 29,
+    "fields": {
+        "color": "Everybody history compare evidence strong believe tend live.",
+        "tipo": "mark40@example.org",
+        "diamametro": "His policy practice.",
+        "Precio": 0.07440291732144788,
+        "vendidos": 22
+    }
+},
+{
+    "model": "examen.vendidos",
+    "pk": 30,
+    "fields": {
+        "color": "According course democratic yourself strategy color. Possible support happen on employee hard.",
+        "tipo": "vjohnson@example.org",
+        "diamametro": "Agreement decide.",
+        "Precio": 0.0030133710021774673,
+        "vendidos": 22
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 1,
+    "fields": {
+        "descripcion": "Instead foot seven economy away administration. Provide young magazine. Full both herself fly take computer treatment. Material work during if.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": -2857,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 2,
+    "fields": {
+        "descripcion": "American protect home customer maybe series throw view. Stuff stuff fish write allow agree likely program.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 14079,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 3,
+    "fields": {
+        "descripcion": "Big task garden find town question.\nCertain I walk. Reduce view difficult nor.\nSenior attack training serious. Bank factor pass recently until them.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 31321,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 4,
+    "fields": {
+        "descripcion": "Natural listen book quickly situation. Beat under six theory. Modern current last.\nSchool mention fast beyond similar. Local maybe writer investment whole form help.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": -1001,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 5,
+    "fields": {
+        "descripcion": "Cost choose range dream election face always. Out health environmental analysis.\nStudent evening usually east certain. None relationship idea not according trip. Suffer with feel image skill option.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 11619,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 6,
+    "fields": {
+        "descripcion": "Since dark property tree. Consumer possible forget them.\nFinish news certain surface physical.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 29340,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 7,
+    "fields": {
+        "descripcion": "In step it various. Get type should decide. Today think black specific price majority. Political charge stage voice remain.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": -12414,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 8,
+    "fields": {
+        "descripcion": "Modern nearly street entire direction. Section body general more catch late everything.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": -15143,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 9,
+    "fields": {
+        "descripcion": "Heavy finish with exactly spend tree form. One structure all but fly month always. Until kid middle task.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": -25240,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 10,
+    "fields": {
+        "descripcion": "Room respond base far wife wear character. Even my step special.\nEvening whole green everyone weight success. Beautiful provide conference view else.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 16553,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 11,
+    "fields": {
+        "descripcion": "Nearly range film I so that seven son. Be sell according letter situation could first. Other surface couple see action center. More raise perhaps federal main young modern.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 922,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 12,
+    "fields": {
+        "descripcion": "Suddenly home itself happen. Yes edge other prove home military.\nYard might nor soon write where. Attorney also computer threat doctor growth.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": -10451,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 13,
+    "fields": {
+        "descripcion": "Black support hear probably mother scene method age. Outside behavior peace event low determine. Human rich find give stock source personal.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": -26706,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 14,
+    "fields": {
+        "descripcion": "Local store and that chair heavy. Out window person ability. Customer war shoulder describe.\nReceive short behind though face discuss. Ok offer stuff perform everything determine.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 22014,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 15,
+    "fields": {
+        "descripcion": "Decision act price. To direction bed law want. Industry maybe Congress blue.\nYes under nothing bill. Magazine case style friend cause. Example early vote me fight something.",
+        "fecha_puntuacion": "2024-11-05T08:51:21.987Z",
+        "puntuacion": 28403,
+        "vendido": null,
+        "usuario": null
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 16,
+    "fields": {
+        "descripcion": "Finish senior movement garden single. Song interest grow door. Large though kid end. Number across his maybe though at.\nNearly see understand.\nThese price few.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -27734,
+        "vendido": 26,
+        "usuario": 24
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 17,
+    "fields": {
+        "descripcion": "Best prove force table large anyone. Hair positive time involve daughter recognize. Third program structure study campaign.\nAhead role key. Improve attorney evening set grow also.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": 25618,
+        "vendido": 29,
+        "usuario": 27
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 18,
+    "fields": {
+        "descripcion": "Then community heavy surface. Place yard level.\nCareer left short rock little near end.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -6565,
+        "vendido": 28,
+        "usuario": 27
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 19,
+    "fields": {
+        "descripcion": "Role action time student politics benefit. Side amount why poor follow.\nHuge power experience finish agreement. Less future build past TV may wife. Particularly total environment mind evidence.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -19890,
+        "vendido": 30,
+        "usuario": 16
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 20,
+    "fields": {
+        "descripcion": "Second who ok brother job. Board job second throughout operation act PM. Seven practice fear enjoy defense would. Check national quality turn section.\nVisit place attention purpose music.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -19246,
+        "vendido": 24,
+        "usuario": 27
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 21,
+    "fields": {
+        "descripcion": "Former since mother describe. Try choose thousand investment. Door really include service nearly security.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -4223,
+        "vendido": 21,
+        "usuario": 23
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 22,
+    "fields": {
+        "descripcion": "Determine employee establish dream. Stand set design after leader want decide. Nation resource represent activity even artist feel.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -22693,
+        "vendido": 19,
+        "usuario": 16
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 23,
+    "fields": {
+        "descripcion": "Writer cup condition worry tonight knowledge easy hand. Commercial million mouth under pass receive.\nMust reflect life.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": 29568,
+        "vendido": 29,
+        "usuario": 28
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 24,
+    "fields": {
+        "descripcion": "Still somebody author prepare. Stop record scene mean voice star. Easy listen center third rise anything expect.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -6859,
+        "vendido": 22,
+        "usuario": 27
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 25,
+    "fields": {
+        "descripcion": "Add do entire little. Bill civil door surface dog bad industry. Continue this during officer east whether paper.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": 19843,
+        "vendido": 27,
+        "usuario": 28
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 26,
+    "fields": {
+        "descripcion": "Wide enter national heart suddenly trial plant. Another model other paper someone kind business paper. Concern ready watch growth. Deal will interview thing certain necessary south.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -4573,
+        "vendido": 17,
+        "usuario": 22
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 27,
+    "fields": {
+        "descripcion": "Top design responsibility safe operation Mr. Degree tax trade it respond role. Share building late test.\nIt accept heart letter. Green too message positive will stock.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -13814,
+        "vendido": 26,
+        "usuario": 24
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 28,
+    "fields": {
+        "descripcion": "Student usually Mr serious herself eat exactly. Rather sign successful side agreement thought. Republican state several these cup side.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -8927,
+        "vendido": 21,
+        "usuario": 26
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 29,
+    "fields": {
+        "descripcion": "Series game again total very change. Recent establish discussion develop thing difference support value.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": 21476,
+        "vendido": 19,
+        "usuario": 22
+    }
+},
+{
+    "model": "examen.puntuacion_cuadernos",
+    "pk": 30,
+    "fields": {
+        "descripcion": "Of who five. Home member some they help.\nShort green shoulder phone artist health religious. Next wait pressure. My themselves how sing sometimes sense.",
+        "fecha_puntuacion": "2024-11-05T09:30:19.012Z",
+        "puntuacion": -20720,
+        "vendido": 23,
+        "usuario": 29
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 1,
+    "fields": {
+        "precio": 31561,
+        "usuarios": 1
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 2,
+    "fields": {
+        "precio": 20800,
+        "usuarios": 1
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 3,
+    "fields": {
+        "precio": 17886,
+        "usuarios": 15
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 4,
+    "fields": {
+        "precio": 28900,
+        "usuarios": 14
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 5,
+    "fields": {
+        "precio": -902,
+        "usuarios": 5
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 6,
+    "fields": {
+        "precio": 26394,
+        "usuarios": 10
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 7,
+    "fields": {
+        "precio": -26189,
+        "usuarios": 2
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 8,
+    "fields": {
+        "precio": -24766,
+        "usuarios": 7
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 9,
+    "fields": {
+        "precio": -12789,
+        "usuarios": 14
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 10,
+    "fields": {
+        "precio": -250,
+        "usuarios": 9
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 11,
+    "fields": {
+        "precio": -1745,
+        "usuarios": 9
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 12,
+    "fields": {
+        "precio": -13345,
+        "usuarios": 10
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 13,
+    "fields": {
+        "precio": 24499,
+        "usuarios": 15
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 14,
+    "fields": {
+        "precio": -25368,
+        "usuarios": 4
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 15,
+    "fields": {
+        "precio": -1625,
+        "usuarios": 14
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 16,
+    "fields": {
+        "precio": -30070,
+        "usuarios": 20
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 17,
+    "fields": {
+        "precio": 20215,
+        "usuarios": 16
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 18,
+    "fields": {
+        "precio": 11370,
+        "usuarios": 21
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 19,
+    "fields": {
+        "precio": -4118,
+        "usuarios": 16
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 20,
+    "fields": {
+        "precio": -21899,
+        "usuarios": 29
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 21,
+    "fields": {
+        "precio": -9212,
+        "usuarios": 16
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 22,
+    "fields": {
+        "precio": 19220,
+        "usuarios": 28
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 23,
+    "fields": {
+        "precio": -25270,
+        "usuarios": 26
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 24,
+    "fields": {
+        "precio": 6505,
+        "usuarios": 16
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 25,
+    "fields": {
+        "precio": 24440,
+        "usuarios": 26
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 26,
+    "fields": {
+        "precio": -31879,
+        "usuarios": 26
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 27,
+    "fields": {
+        "precio": -6106,
+        "usuarios": 28
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 28,
+    "fields": {
+        "precio": -28595,
+        "usuarios": 26
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 29,
+    "fields": {
+        "precio": 29756,
+        "usuarios": 20
+    }
+},
+{
+    "model": "examen.subscripcion",
+    "pk": 30,
+    "fields": {
+        "precio": -30318,
+        "usuarios": 22
+    }
+}
+]

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimo voto</title>
+</head>
+<body>
+    <h1>Ultimo voto del libro con vendido id = 2</h1>
+
+    {% for ultimo in  ultimos %}
+
+    <div>
+
+        <ul>
+                        
+            <li>descripcion: {{ultimo.descripcion}}</li>
+
+        <ul>
+    </div>
+
+    {% endfor %}
+
+</body>
+</html>
